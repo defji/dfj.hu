@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    padding: 30px;
+}
+.logo {
+    -webkit-perspective: 250px;
+    perspective: 250px;
+    display: inline-block;
+    /* font-family: Roboto, Impact; */
+    font-family: 'Oldenburg', cursive;
+    font-size: 5em;
+    font-weight: bold;
+    text-decoration: none;
+    letter-spacing: -.05em;
+}
+.logo span { display: inline-block; }
+.m1 { color: #FFC000; font-weight: 100; }
+.m2 { color: #bec3c9 ; font-weight: 100; }
